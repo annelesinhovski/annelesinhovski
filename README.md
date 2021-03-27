@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, eu sou a Anne Lesinhovski</h1>
-<h3 align="center">Desenvolvedora Front-end e especialista em desenvolvimento para a web.</h3>
+<h1 align="center">Hello 👋, I'm Anne Lesinhovski</h1>
+<h2 align="center">Front-end developer with focus in web development</h2>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can find me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anne-lesinhovski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anne-lesinhovski" height="30" width="40" /></a>
 <a href="https://instagram.com/tech.anne" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tech.anne" height="30" width="40" /></a>
