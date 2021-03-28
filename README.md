@@ -1,5 +1,5 @@
 <h1 align='center'> Hello, I'm Anne Lesinhovski <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> 
-Front-end developer with focus in web development</h1>
+Front-end dev with focus on web development</h1>
 
 <div align="center">
 <img width="221px" height = "221px" src="https://annelesin.com.br/images/foto-perfil.png" alt="cover" />
