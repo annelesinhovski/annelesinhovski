@@ -1,10 +1,6 @@
 <h1 align='center'> Hello, I'm Anne Lesinhovski <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> 
 Front-end dev with focus on web development</h1>
 
-<div align="center">
-<img width="221px" height = "221px" src="https://annelesin.com.br/images/foto-perfil.png" alt="cover" />
-</div>
-
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=annelesinhovski.annelesinhovski)
@@ -58,10 +54,3 @@ I hope you find all the information you need. If not, don't hesitate to send me 
 <br>
 </p>
 
-<h2 align="center"> My GitHub Stats </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=annelesinhovski&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelesinhovski&theme=radical" />
-</a>
