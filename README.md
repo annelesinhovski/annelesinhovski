@@ -21,13 +21,13 @@ I hope you find all the information you need. If not, don't hesitate to send me 
 
 <p>Main skills:</p>
 
-<p>📍 **Technical Leadership**: close collaboration with product and design peers to define strategic objectives, in parallel with technical direction and support for the technical team. Defining and executing strategies, such as technical refinements or system design sections, making sure they are delivered within the deadline and scope set for the project objectives, and, when needed, interviewing and choosing team members.</p>
+<p>📍 <strong>Technical Leadership</strong>: close collaboration with product and design peers to define strategic objectives, in parallel with technical direction and support for the technical team. Defining and executing strategies, such as technical refinements or system design sections, making sure they are delivered within the deadline and scope set for the project objectives, and, when needed, interviewing and choosing team members.</p>
 
-<p>💻 **Software Development**: I have a strong foundation and extensive experience in software development with a focus on front-end (JavaScript, Typescript, React, Next.js, testing, consumption of APIs and Node.js, for example), as well as versioning with Git, CI/CD setup, and implementation of microfrontend architecture. Practices that promote good development, performance, SEO, and accessibility. My leadership roles gave me the opportunity to develop my knowledge in systems design, architecture, infrastructure, and DevOps.</p>
+<p>💻 <strong>Software Development</strong>: I have a strong foundation and extensive experience in software development with a focus on front-end (JavaScript, Typescript, React, Next.js, testing, consumption of APIs and Node.js, for example), as well as versioning with Git, CI/CD setup, and implementation of microfrontend architecture. Practices that promote good development, performance, SEO, and accessibility. My leadership roles gave me the opportunity to develop my knowledge in systems design, architecture, infrastructure, and DevOps.</p>
 
-<p>💬 **Mentoring and career development**: continuous monitoring of technical team members through feedback and 1:1s, identifying development opportunities and helping to resolve conflicts.</p>
+<p>💬 <strong>Mentoring and career development</strong>: continuous monitoring of technical team members through feedback and 1:1s, identifying development opportunities and helping to resolve conflicts.</p>
 
-<p>💙 Also, I have a **personal project where I create content** on the internet and I am a mentor for career development in IT. I learned about entrepreneurship, marketing, and discovered my passion for boosting other people's careers so that they have the same opportunities that I had the pleasure of experiencing through my profession! Find out more about Tech Anne by visiting [this link](https://techanne.com.br/links/).</p>
+<p>💙 Also, I have a <strong>personal project where I create content</strong> on the internet and I am a mentor for career development in IT. I learned about entrepreneurship, marketing, and discovered my passion for boosting other people's careers so that they have the same opportunities that I had the pleasure of experiencing through my profession! Find out more about Tech Anne by visiting <a href="https://techanne.com.br/links/">this link</a>.</p>
 
 
 <br>
